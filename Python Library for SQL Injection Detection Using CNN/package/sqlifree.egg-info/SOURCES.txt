@@ -1,0 +1,9 @@
+README.md
+setup.py
+sqlifree/__init__.py
+sqlifree/injection.py
+sqlifree.egg-info/PKG-INFO
+sqlifree.egg-info/SOURCES.txt
+sqlifree.egg-info/dependency_links.txt
+sqlifree.egg-info/requires.txt
+sqlifree.egg-info/top_level.txt
